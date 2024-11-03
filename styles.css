@@ -3,12 +3,6 @@
     text-align: right;
 }
 
-#clear {
-    width: 50px;
-    margin: auto;
-    margin-top: 20px;
-}
-
 .calculator {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
